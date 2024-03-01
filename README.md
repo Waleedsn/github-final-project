@@ -1,2 +1,8 @@
 # github-final-project
-The core team currently uses Subversion (SVN) for managing code. They want to slowly move their code to Git. I am helping to host their sample code to calculate simple interest on GitHub in a new repository as the first step in this journey.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
